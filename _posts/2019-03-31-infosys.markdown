@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "Sau điều kỳ diệu"
+date:   2019-03-31 16:02:19 +0700
+categories: outsourcing
+---
+
+**Trong vòng một thế hệ, người Mỹ đã đưa công việc gia công sang Ấn Độ. Những công ty Ấn như Infosys phát triển lớn hơn cả Facebook và Google gộp lại và tạo ra một tầng lớp trung lưu mới. Tưởng chừng đà phát triển sẽ kéo dài mãi.**
+
+Một chương trình quảng cáo xuất hiện ngày 15 tháng Ba trên khoang và nhà ga của hệ thống tàu điện San Francisco: “LAO ĐỘNG KỸ THUẬT NGƯỜI MỸ". Mẫu quảng cáo ghi chữ in hoa bên dưới tấm ảnh màn hình laptop chứa một nắm đấm giương cao. “Các Công ty cho rằng anh TỐN KÉM, KÉM CỎI và CÓ THỂ THAY THẾ. Quốc hội hãy sữa luật H-1B để các công ty phải Tìm và Thuê lao động Mỹ!” Một công ty tên là Cải tổ hệ thống nhập cư (Progressives for Immigration Reform) đã mua tổng cộng có 350 áp phích như vậy với giá $80,000. Một số người phàn nàn quảng cáo như vậy có tính kỳ thị với người nhập cư. Người phát ngôn hệ thống tàu điện cho rằng quảng cáo “đi ngược lại giá trị" của họ, nhưng mà họ không còn lựa chọn nào khác.
+<br>
+
+Dù không được đề cập nhưng ai cũng thấy đối tượng mà quảng cáo nhắm đến: các công ty gia công Ấn. Hằng năm, chính phủ Mỹ cấp 85,000 thị thực H-1B được làm mới sau mỗi 3 năm, và các công ty công nghệ Ấn luôn dành được hơn 2 phần 3 số thị thực này. Con số này chỉ là phần nhỏ so với 4 triệu người Ấn làm trong ngành IT - nhưng đây là phần chính yếu. Trong số này có một công ty luôn xin cấp số lượng lớn thị thực, cao gấp 2 lần so với công ty tiếp theo: công ty Infosys đến từ Bangalore.
+<br>
+
+Infosys được thành lập năm 1981, và mặc dù không ai nhận ra, đã hiện hữu sâu rộng trên nước Mỹ. Sáu mươi phần trăm trong số $10B lợi nhuận hằng năm của Infosys đến từ Mỹ. Infosys vận hành một trung tâm IT cho Harley-Davidson ở Milwaukee. Công ty này xây dựng một hệ thống liên lạc cho nhân viên của công ty Kellogg ở Battle Creek, Michigan và chi nhánh Obamacare ở DC. Còn đối với một công ty chuyên về chụp hình học sinh tên là Lifetouch ở Minnesota, nơi mà chụp hình cho hơn một nửa số học sinh Mỹ, Infosys thiết kế và vận hành hệ thống lên lịch chụp chân dung cho những người sắp tốt nghiệp. Còn vô số khách hàng khác của Infosys không được nhắc đến, vì công ty nắm giữ rất nhiều các thông tin sở hữu và khách hàng thường không muốn tiết lộ họ hưởng lợi bao nhiêu từ lao động Ấn. Bank of America và Apple không được liệt kê là khách hàng trong báo cáo hằng năm của Infosys, nhưng 2 công ty này được biết đến là 2 hợp đồng lớn nhất họ. Thật không quá lời khi nói rằng nếu bạn gửi tiền vào ngân hàng, hoặc dùng iPhone, hoặc mua sắm online, thì y như rằng bạn đang sử dụng phần mềm do Infosys thiết kế và bảo trì.
+<br>
+
+Trong những năm sơ khai của công ty, các kỹ sư Infosys làm việc như những nhân công kỹ thuật số vô hình, họ viết và kiểm tra phần mềm vì những tập đoàn không muốn phải tự làm lấy. Ngày nay, hơn 200,000 nhân viên công ty làm hết thảy mọi việc liên quan đến dịch vụ công nghệ, từ phần mềm viết sẵn, đến phần mềm có thể hiệu chỉnh hoặc phần mềm được viết mới từ đầu tuỳ thuộc vào yêu cầu cụ thể của khách hàng, chính vì vậy mà Infosys cần rất nhiều thị thực H-1B. Lấy ví dụ, khi Infosys cần thiết kế phần mềm quản lí kho cho một hệ thống bán lẻ quần áo (thực tế là Infosys đang làm như thế cho các công ty như Reebok và Nordstrom), thì một nhóm kỹ sư cần phải “cắm" vào hệ thống bán lẻ để hiểu được cách vận hành và thiết phần mềm cho phù hợp.
+<br>
+
+Chính vì Infosys mà Ấn Độ được biết đến như là đất nước chuyên về công nghệ máy tính. Công ty này đã làm Bangalore thay da đổi thịt, từ một thành phố chậm rãi xanh tươi thành một siêu đô thị kẹt cứng. Sáng lập công ty là Narayana Murthy và vợ là nhà văn và nhà hoạt động từ thiện Sudha Murty được xem là Bill và Melinda Gates của Ấn Độ. “Infosys đã tạo ra tầng lớp trung lưu Ấn", Kris Lakshmikanth, sáng lập của một công ty tìm kiếm nhân viên cấp cao ở Bangalore cho tôi hay. Infosys đã sinh ra ngành IT, một ngành đóng góp vào 9.3% GDP cho Ấn Độ.
+<br>
+
+Thế nhưng trong năm vừa rồi, Infosys cùng những công ty khác phải đối mặt với những khó khăn chưa từng có. “Thị trường biến động - có quá nhiều thông tin nhiễu loạn và bối rối", Phil Fersht, sáng lập của công ty phân tích IT hàng đầu tên là HfS Research cho biết. “Thị trường gia công đang lao dốc kể từ khi Trump lên nắm chính quyền"
+<br>
+
+Các nhân viên kỹ thuật của ngành IT Ấn lo sợ bị sa thải hàng loạt vì chủ nghĩa bảo hộ Mỹ, vì ứng dụng những công nghệ có thể thay thế con người, và vì báo chí cứ liên tục nói về những điều tiêu cực. Trump phàn nàn về vấn nạn “lạm dụng có tổ chức" và làm cho việc lấy thị thực khó khăn hơn rất nhiều. Trong khi đó, những tiến triển vượt bực của những công nghệ như AI, điện toán đám mây và các ứng dụng tự động hoá đang dần thay đổi gần hết những thứ mà nền công nghiệp IT Ấn đã và đang làm. Công ty tư vấn McKinsey tính rằng những công nghệ mới này sẽ làm ⅔ nhân lực IT Ấn mất việc vào năm 2020. Các tờ báo giật tít rằng ngành IT sẽ “tắm máu", dù rằng điều này chưa xảy ra trong năm 2017, ai cũng cảm thấy là khủng hoảng sa thải sẽ là tất yếu, chẳng qua đang bị đẩy lùi mà thôi. Infosys kết thúc năm với sự tăng nhẹ về số lượng nhân viên, trong khi 4 công ty công nghệ hàng đầu khác lại giảm quân số của mình, lần đầu tiên trong lịch sử hoạt động của họ. “Đối với ngành IT Ấn, bạn phải nhớ rằng họ đã tăng trưởng liên tục trong 20 năm, vậy nên tăng trưởng chậm lại thì trông như họ đang sa thải”, nhà sáng lập của công ty Constellation Research tên là Ray Wang cho hay.
+<br>
+
+Infosys từ lâu đã xác định chuẩn mực cho ngành IT Ấn. Vậy mà bây giờ họ cũng không biết chuyện gì sẽ xảy ra. “Họ đang trải qua thời khắc cực kỳ quan trọng, họ nhất thiết phải đi đúng hướng", Fersht cho hay.
+<br>
+
+**Trụ sở toàn cầu của Infosys** nằm ở trung tâm của khu ngoại ô Electronic City, phía nam của Bangalore. Khuôn viên này như là khu ốc đảo của Silicon Valley: các thảm cỏ tiêu chuẩn sân golf, vô số các tiện ích cho nhân viên, và ai cũng đi xe đạp. Kiến trúc khá bắt mắt: một toà nhà kiểu bảo tàng Louvre Pyramid, một toà khác kiểu Sydney Opera House, và toà nhà đồ sộ nhất được các nhân viên nói là trông như một cái máy giặt cửa trước. Tất cả tiện ích được bảo vệ bởi rào chắn. Infosys được xem là tài sản chiến lược quan trọng đến nổi nó được bảo vệ bởi India's Central Industrial Security Force. Đây là lực lượng được dùng để bảo vệ các công trình trọng điểm như đập nước, xưởng sản xuất tiền và nhà máy hạt nhân. Bên trong “Cái Máy Giặt", một đội quân tinh nhuệ là các kỹ sư Ấn làm việc không ngừng nghỉ để vận hành hệ thống hạ tầng vô hình cho các tập đoàn phương Tây.
+<br>
+
+Không ai có thể mơ tới viễn cảnh này khi Narayana Murthy cùng 6 cộng sự sáng lập nên Infosys vào năm 1981. Tất cả họ đều cạn túi, nên họ dựa vào khoản tiền mà vợ của Murthy bỏ vào: 10,000 rupees, tương đương $1,200. Bà đã kiếm được khoản khi còn là kỹ sư máy tính. Lúc đó chính phủ Ấn có chính sách thương mại hà khắc, và phải mất 2 năm họ mới mua được chiếc máy tính đầu tiên. Trong khoảng thời gian đó Infosys phải mượn máy tính của khách hàng để làm việc. Các ngân hàng không biết phần mềm là gì nên họ đều từ chối không cho vay. (Bây giờ thì tất cả đều dùng Finacle, một gói phần mềm do Infosys phát triển để tự động hoá giao dịch và chấp nhận các khoản vay). Lắp đặt một đường dây điện thoải cũng phải mất 1 năm.
+<br>
+
+“Mọi người đùa là một nửa dân Ấn phải chờ kết nối điện thoại và nửa còn lại phải chờ tín hiệu", Murthy cho tôi hay vào lần đầu tôi được gặp ông ở văn phòng công ty Catamaran Ventures, nơi mà ông tập trung vào kể từ khi ông rời Infosys năm 2014. Ở tuổi 71, Murthy mang dép cao su đen và nói thong thả từ tốn như giáo viên trông trẻ. Tính cách đã làm nên một gã khổng lồ công nghệ là đam mê sáng tạo và sự lặp đi lặp lại các triết lý kinh doanh: “Tin xấu thì báo ngay, còn tin tốt thì để từ từ", “Chúa phán thì ai cũng tin, còn người phàm thì phải nói có sách mách có chứng". Ông quá khiêm tốn, đến nỗi tôi phải tự nhắc nhở rằng ông là người giàu có nhất tôi từng gặp với số tài sản hơn $2B. Con trai ông Rohan cho tôi biết rằng ông tự lau toilet để minh chứng cho chủ nghĩa quân bình và tính tự lực cánh sinh, mãi cho đến khi ông bị chấn thương gối vào năm 2000.
+<br>
+
+Ngay từ sơ khai, Murphy đã có tầm nhìn về hệ thống kinh doanh toàn cầu cho Infosys mà bây giờ chúng ta thừa hưởng: bán những gì mà thị trường cần, tuyển nhân tài ở nơi rẽ nhất và nhiều nhất, và lợi dụng cách biệt múi giờ. Ông gọi đó là “mô hình cung ứng toàn cầu". Giới phân tích trong ngành gọi đùa là “làm nhiều tốn ít": giao những việc nhàm chán cho những kỹ sư gia công với giá rẻ. Họ tiết kiệm được những khoản khổng lồ. “Sức mạnh lớn nhất của Ấn là khả năng chịu đựng", cựu CFO của Infosys là V. Balakrishnan cho tôi hay. Một cựu CFO khác là Mohandas Pai cũng nói “Chúng tôi sẵn sàng làm việc 18 giờ / ngày trong hàng tháng hàng năm trời mà chỉ tính 8 giờ thôi". Radhi Spear, nữ kỹ sư đầu tiên của Infosys chỉ tôi khoản lương tháng cô nhận vào năm 1984: 1,500 rupees, tương đương $125. “Thời đó được xem là khoản lương không tồi chút nào", cô nói. Cùng năm đó, một kỹ sư mời vào nghề người Mỹ sẽ nhận khoản lương gấp 13 lần.
+<br>
+
+Nhưng để giành được các khách hàng Mỹ khi mà Ấn Độ chưa được biết đến là quốc gia phần mềm là không dễ. Một trong số các sáng lập của Infosys, S.D. Shibulal, cho tôi biết là lần đầu tiên anh cố thuyết phục một khách hàng ở Massachusetts là một thảm hoạ. Trong lần thứ hai anh đã chuẩn bị mọi thứ: “Trong trang thuyết trình đầu tiên tôi đưa ra 1 bản đồ thế giới, rồi tôi nói, ‘Đây là bản đồ thế giới. Đây là Châu Á. Đây là Ấn Độ. Đây là Bangalore. Tôi đến từ chỗ này, và tôi nói tiếng Anh'”
+<br>
+
+Infosys thiết lập được hình ảnh là một công ty làm ăn đường đường chính chính. Họ minh chứng rằng có thể thành công mà không cần phải hối lộ và phải minh bạch về tài chính. Trong khi các công ty cạnh tranh lớn thời bấy giờ như Wipro và TCS dựa vào mối quan hệ gia đình với quan chức chính phủ. TCS, một trong những công ty gia công lớn nhất thế giới, chỉ là một nhánh của Tata Group, một tổng công ty gia đình lớn nhất Ấn Độ được bắt nguồn từ việc buôn bán thuốc phiện sang Trung Quốc từ thế kỷ 19. Tập đoàn nay hiện đang bán từ trà tới xe tải, sắt thép, muối, điện và sa số những mặt hàng khác. Wipro, một đế chế khác, là viết tắt của Công ty Rau củ Tây Ấn, tập trung vào mặt hàng dầu ăn trước khi bất ngờ chuyển sang phần cứng máy tính. Đầu tiên là TCS, sau đó là Wipro, rồi tới Infosys bắt đầu bán những phần mềm na ná nhau cho các công ty ngoại quốc vào thập niên 80 và 90. Ba công ty này dần xây dựng nên ngành IT Ấn.
+<br>
+
+Dù vậy, Infosys gặp khó khăn vào cuối những năm 80 đến nổi các thành viên sáng lập suýt phải bán công ty. Infosys được giải cứu vào 1991: sau 44 năm bảo hộ, chính phủ Ấn quyết định mở cửa thị trường và nền kinh tế. Thời kỳ thuế cao, hạn chế nhập khẩu và các điều luật thương mại nghiêm ngặt đã qua. Việc các công ty được tự do mua sắm thiết bị đã giúp giải phóng các công việc sản xuất cũng như trí tuệ cho Ấn Độ. Vào năm 1993, các thành viên sáng lập đưa Infosys lên sàn chứng khoán India Stock Exchange. Họ nhanh chóng cho nhân viên cổ phiếu, từ giám đốc cho đến lao công, một số trở nên giàu có và tạo ra một kiểu lao động mới: triệu phú làm công ăn lương.
+<br>
+
+Vào năm 1999, Infosys trở thành công ty Ấn đầu tiên lên sàn Nasdaq. Trong 10 năm tiếp theo, doanh số công ty tăng liên tục trung bình mỗi năm 50% một phần nhờ vào các công việc “làm nhiều tốn ít". Sự cố Y2K không khó để sửa nhưng công việc lại khá nhàm chán, và các công ty phương Tây lại đẩy toàn bộ việc cho các công ty IT Ấn. Điều này giúp cho Infosys có thêm các khách hàng và quan hệ mới, là bệ phóng giúp họ tiến vào thế kỉ 21.
+<br>
+
+Các công ty IT Ấn khác cũng sinh sôi nảy nở cùng với thành công của Infosys giúp củng cố vị trị của Ấn Độ như là thị trường nhân lực IT hàng đầu. Ngành IT Ấn phát triển cùng lúc với bong bóng dot-com của Mỹ: hơn nữa triệu nhân viên kỹ thuật Mỹ mất việc vào các năm 2001 và 2002. Trong cùng thời gian này, số lượng nhân viên Infosys tăng gấp đôi. Ở Mỹ, các lập trình viên tức giận và biểu tình với tấm bảng: Will Code for Food (Viết code sống qua ngày). Sau đó, các lao động kỹ thuật cho rằng Infosys đã lợi dụng hệ thống cấp thị thực. Một nhân viên Infosys người Mỹ đã tiết lộ thông tin dẫn đến điều tra cho rằng Infosys đã gian dối và đưa nhân viên vào Mỹ dùng các visa sai mục đích. Infosys từ chối các việc làm sai trái, nhưng cuối cùng vào tháng 11 2013 chấp nhận chịu phạt $34M, khoản phạt liên quan đến nhập cư lớn nhất từ trước tới giờ.
+<br>
+
+Tại Ấn, việc tuyển dụng ồ ạt nhân lực IT đã làm thay đổi văn hoá theo cách mà Murthy không bao giờ hình dung tới. Vasudhendra, một tác giả và nhà phê bình văn hoá đã làm việc 20 năm trong ngành IT, bao gồm cả công ty cạnh tranh tên là TCS, cho biết ngành này đã tạo ra, lần đầu tiên trong xã hội Ấn, môi trường làm việc dựa trên thực lực, nơi không ai thắc mắc về giai cấp caste,  các sếp được gọi bằng tên, nam và nữ đều được công nhận năng lực như nhau (nữ chiếm 36% nhân sự ở Infosys, cao hơn hẳn Microsoft với 26% và hơn mặt bằng chung của Ấn Độ nơi mà chỉ 16,2% lao động thành thị là nữ). Tiền lương hậu hĩnh - cha anh còn cho là quá lố. Cha của Vasudhendra trở thành tầng lớp trung lưu nhờ công việc nhà nước. Ông nhận mức lương 2,000 rupees sau 40 năm làm việc trong phòng doanh thu. Mức lương ban đầu của Vasudhenra đã cao gấp bốn lần.
+<br>
+
+“Điều này tạo ra hố sâu khoảng cách trong xã hội", Vasudhendra cho tôi hay. “Những người khác ngành bắt đầu ganh ghét dân làm IT.” Bất động sản tăng vụt ở những thành phố có ngành IT, hàng hoá cũng tăng chóng mặt. Công nghệ tạo ra chủ nghĩa tiêu dùng kiểu Mỹ. “Khi có tiền thì mọi người muốn mua gì cũng được” Vasudhendra nói. “Anh mua nhà, khi không vừa ý thì mua thêm căn khác."
+<br>
+
+Không có ngành nào thay đổi xã hội Ấn Độ hiện đại như IT - và chưa có thành phố nào chuyển mình như Bangalore. Chỉ một thế hệ trước, Bangalore được biết đến như là “thiên đường về hưu", là nơi lý tưởng để dưỡng già vì văn hoá hoà đồng, nhiều vườn tược sông hồ và nhà sách, và quy mô thành phố cũng vừa phải. Kể từ khi Infosys mở cửa vào năm 1981, dân số thành phố đã tăng 4 lần từ 3 triệu lên trên hơn 11 triệu. Hồ bị san bằng để làm nhà cao tầng và câu lạc bộ thể thao. Giao thông trở nên tồi tệ. Bây giờ nơi đây là thành phố của giới trẻ với quán cafe, quán bia và những dịch vụ về đêm.
+<br>
+
+Quan trọng hơn cả, ngành IT là cơ hội để Ấn bước ra thế giới. “Khi tôi còn nhỏ, nếu có ai đi Mỹ, Anh, hoặc đơn giản là đi nước ngoài thì đáng nể lắm", Vasudhendra nói. “Nhưng khi xuất hiện ngành IT thì ai cũng có cơ hội đi cả" - họ đi để cài phần mềm, hoặc để tham gia một chương trình huấn luyện nào đó.
+<br>
+
+Khi Narayana Murthy về hưu năm 2014 thì ông vẫn sống trong căn nhà khiêm tốn được mua trước khi công ty thành công. Cùng năm đó, được Murthy gật đầu, Infosys lần đầu tiên thuê một CEO mà không phải là thành viên sáng lập: Vishal Sikka. Sikka tốt nghiệp ngành trí tuệ nhân tạo từ trường Standford, dưới sự hướng dẫn của cha đẻ của bộ môn tên là John McCarthy. Infosys luôn muốn ứng dụng những công nghệ mới, nhưng mọi thứ thay đổi quá nhanh, tưởng chừng các công ty Ấn đang chạy theo trào lưu. Sikka thật lòng muốn theo đuổi tất cả các công nghệ mới. Ông thẳng thắn nhìn nhận Ấn Độ không còn dẫn đầu về dịch vụ IT. Sau một năm ở Infosys, Sikka được hỏi “Đây có phải là kết thúc của điều kỳ diệu Ấn như mọi người từng biết hay không?”
+<br>
+Ông trả lời: “Hết rồi. Kết thúc rồi."
+<br>
+
+**Trong những tháng đầu năm 2017**, các tờ báo liên tục nhắc đến khủng hoảng việc làm cho lao động IT: “Kỹ sư giá rẻ Ấn không còn chổ đứng trong nước Mỹ dưới thời Trump", “Tự động hoá: nguyên nhân làm cho kỹ sư lỗi thời”, “Nỗi lo mất việc làm cho kỹ sư bất an", “Ngành IT trị giá $150B đang phải đối mặt: đổi mới hoặc là chết"
+<br>
+
+Tháng 4 năm ngoái, Puneet Manuja, đồng sáng lập YourDost, một ứng dụng trực tuyến giúp chữa bệnh liên quan đến tâm thần ở Bangalore cho biết đã nhận rất nhiều tin nhắn từ các kỹ sư đã và sắp mất việc. Đáp lại, YourDost đã mở một đường dây nóng tạm thời để giúp giải đáp thắc mắc. Chỉ trong 3 ngày, 1100 người đã liên hệ. Manuja cho biết “Đa số họ không có kế hoạch dự phòng. Hơn 60% trong số họ chỉ còn khoảng 3 tháng lương tiết kiệm". Nhiều người dù đã mất việc nhưng vẫn giấu giếm gia đình người thân. “Khi được hỏi là tại sao không cho người thân biết, họ trả lời là không muốn bị xem thường. Nếu bị sa thải, thật khó nói là tại vì hệ thống đã thay đổi.” Một cô gái trẻ sống chung với ba mẹ đã phải giả bộ ăn mặc tươm tất đi làm mỗi sáng mặc dù cô đã mất việc cả tuần trước.
+<br>
+
+Những công ty IT hàng đầu phủ nhận là họ đang sa thải. Một số người cho biết là để tránh thú nhận là đang sa thải, các công ty đặt ra các nhiệm vụ bất khả thi để dồn ép nhân viên. Một hôm tôi gặp một nhân viên Infosys lâu năm ở nhà anh tại Bangalore. Khuôn viên toà nhà đồ sộ tràn ngập ánh đèn, toà phun nước; khu nhà quá xa xỉ ở Bangalore nếu không có ngành IT. Anh nói vào đầu năm trước anh đã nghỉ 2 tháng để lo tang gia cho bố, khi quay lại làm thì công ty hoàn toàn thay đổi. Quản lí mới của anh đã tách anh khỏi dự án, cho là anh không làm việc hiệu quả, liên tục thúc ép anh phải tự nghỉ việc, nếu không thì công ty sẽ đuổi. Sau 2 tháng chịu đựng thì anh bỏ cuộc. Đến giờ anh vẫn còn thấy mất mặt và choáng váng; anh cho rằng mình luôn làm khách hàng và quản lí hài long, anh thậm chí còn cho tôi xem email để chứng minh. Anh từ chối tiết lộ họ tên vì còn hy vọng một ngày nào đó công ty sẽ nhận lại anh.
+<br>
+
+Tháng Bảy, vào một ngày thứ bảy nóng bất thường, tầm 60 kỹ sư IT độ tuổi trung niên từ nhiều công ty khác nhau tụ tập ở Freedom Park ở Bangalore để biểu tình theo sự tổ chức của Hiệp hội kỹ sư IT. Những người tham gia bao gồm 1 nhân viên IBM tên là Kumara Swamy, cho hay đây là buổi biểu tình chống sa thải đầu tiên trong lịch sử ngành IT Ấn. Ai cũng lo lắng. 20 cảnh sát mặc thường phục đứng gần đó phòng khi có sự cố. “Nghề IT không được bảo hiểm!” Swamy hét vào loa. “Sa thải thì phải bồi thường!”
+<br>
+
+“Hơn một ngàn người tính tham gia nhưng ai cũng sợ”, một kỹ sư tên Rakesh Srivatsa cho tôi biết. Một nhóm nhỏ bao quanh thôi để bày tỏ chính kiến, nhưng đa số ai cũng ngại cho biết tên, vì họ sợ tên của mình sẽ rơi vào “danh sách đen”, dù đây chỉ là tin đồn mà thôi. Những kỹ sư tuổi trung niên này là đối tượng dễ bị ảnh hưởng nhất. “Một kỹ sư 55 tuổi có mức lương gấp 3 lần một người 25 tuổi dù cho hiệu quả công việc có thấp hơn chăng nữa", cựu CFO của Infosys tên là Mohandas Pai cho tôi hay. Hàng loạt nhân viên được tuyển vào những năm 90s và 2000 giờ đang ở độ tuổi trung niên này.
+<br>
+
+Một người biểu tình nói đối tượng họ nhắm đến là chính phủ Ấn: họ ghen tị với “tấm lưới an toàn" của nước Mỹ, đặc biệt là bảo hiểm xã hội và bảo hiểm thất nghiệp. Họ từng tung hô Infosys nhưng công ty này cũng không khá hơn những nơi khác trong vấn đề bảo hiểm nghề nghiệp. 2 quản lí đang độ tuổi trung niên ở Infosys thì thầm riêng với tôi “Khi tôi mới tham gia, họ xem nhân viên là cổ đông. Bây giờ thì hết rồi."
+<br>
+
+Trong bản báo cáo hàng năm 2017, Infosys cho hay tự động hoá giúp công ty “tiết kiệm công sức cho khoảng 11,000 nhân viên toàn thời gian" - làm dấy lên nỗi lo công ty sẽ sa thải 11,000 người. Ban giám đốc nhanh chóng đính chính rằng không ai bị sa thải - tự động hoá chỉ đơn giản là giúp công ty bố trí số nhân lực trên vào những “công việc thú vị hơn và hiệu quả hơn”, đồng thời tự động hoá giúp “khám phá tiềm năng” của nhân viên. Đây không đơn giản là nói giảm nói tránh; một trong những mục đích chính của dịch vụ IT là tự động hoá công việc. Ngành IT “chỉ là cố đẩy lùi quá trình sa thải", như trong một báo cáo của HfS Research.
+<br>
+
+HfS dự đoán ngành IT Ấn sẽ mất 7.5% việc làm vào năm 2022. Đối tượng bị ảnh hưởng nặng nề nhất là những vị trí ít kỹ năng, đặc biệt là kiểm thử phần mềm, một lãnh vực chiếm đa số ở Ấn. Họ dự đoán lãnh vực này sẽ mất 31% việc làm, tương đương 750,000 nhân công. Đây chỉ là mở màn của những điều tồi tệ tiếp theo. “Chúng ta có thể kiểm soát tình hình trong 5 năm tới, 5 năm sau đó mới thực sự khó khăn vì tác động của thị trường lao động", báo cáo cho biết.
+<br>
+
+Tình hình càng phức tạp hơn vì những người trẻ tuổi đang hy vọng vào đà tăng trưởng và mong muốn kiếm việc trong ngành này. Sinh viên Ấn theo học kỹ sư máy tính tăng gấp ba lần từ 2011 đến 2017. Những sinh viên này ngày càng dựa vào các khoản vay để trang trải học phí. Ngay cả trước khi tình hình tệ đi vào năm 2017, chỉ 40% trong số sinh viên tốt nghiệp kiếm được việc đúng chuyên môn. Rất nhiều trường kỹ thuật mọc lên như nấm trong thập kỹ trước có chất lượng đào tạo rất thấp, sinh viên ra trường chỉ có thể làm những công việc đơn giản không đòi hỏi kỹ năng, để rồi thấy công việc đang dần biến mất.
+<br>
+
+Chưa hết, tiếp đó là hiệu ứng Trump. Thái độ thù địch của Trump thể hiện rõ ràng nhất trong một bài phát biểu tranh cử ở Delaware, khi ông chế giễu bằng cách nhại một người làm hỗ trợ khách hàng Ấn. Tháng Tư năm 2017, Trump ký sắc lệnh “Mua hàng Mỹ, thuê người Mỹ", đặc biệt nhắm vào thị thực H-1B. Nội các của ông liên tục gây khó khăn cho các công ty Ấn: Số lương đơn bị yêu cầu “Cần xác minh chứng cứ" tăng gấp đôi, đơn bị loại tăng kỉ lục, chương trình gia hạn thị thực tự động bị xoá bỏ. Trong vài tháng tới, dự tính là hơn 100,000 thị thực làm việc tạm thời được cấp từ thời Obama cho vợ hoặc chồng của những người có thị thực H-1B sẽ bị chính quyền Trump chấm dứt, đa số họ là phụ nữ có bằng cấp. Số lượng đơn xin H-1B vì đó đã giảm 26% kể từ năm 2016.
+<br>
+
+Dù kỹ sư Ấn có sợ ảnh hưởng của chính sách Trump tới ngành IT, họ không thể không ghen tị với cách nhìn thiển cận của tổng thống này. “Chúng tôi muốn có chính trị gia như vậy, chúng tôi muốn công việc được đảm bảo”, một kỹ sư Ấn cho tôi biết.
+<br>
+
+**Trong những năm đầu**, các công ty IT Ấn chỉ làm những việc theo yêu cầu của khách hàng: sửa lỗi phần mềm, tái cấu trúc hệ thống dữ liệu. Bay giờ thì khách hàng liên tục đòi hỏi họ nhanh chóng ứng dụng những công nghệ mới trước khi đối thủ có. Một kỹ sư 25 tuổi tên Rahul Nag đang làm cho mảng IoT, cho biết là đội ngũ của anh đang cố hình dung và giải quyết những nhu cầu của các khách hàng tương lai của Infosys. Một trong những thí nghiệm như vậy đã cho ra đời một ứng dụng di động cho phép theo dõi tình hình hoạt động của các giàn khoan, đồng thời dự đoán những yêu cầu bảo trì trong tương lai. Một ứng dụng khác được dùng để bí mật theo dõi thói quen mua sắm của khách hàng thông qua cổng Wifi.
+<br>
+
+Còn các khách hàng khác thì nhờ Infosys giúp họ tìm ra vấn đề nằm ở đâu. COO của Infosys là Pravin Rao cho biết một khách hàng Mỹ là một trong những nhà sản xuất kẹo tầm cỡ đã trò chuyện với Infosys và nhận ra rằng mối lo không phải từ đối thủ cạnh tranh và từ những lo ngại của người tiêu dùng về mức đường trong sản phẩm của họ. Infosys gợi ý nhà sản xuất này xây dựng công nghệ giúp người tiêu dùng tự điều chỉnh lượng đường có trong kẹo sôcôla.
+<br>
+
+Khi Vishal Sikka trở thành CEO của Infosys vào năm 2014, ai cũng thấy là mô hình kinh doanh phải thay đổi, nhưng không biết là làm thế nào. Mọi người tranh cãi vì không biết là ông có đang lèo lái công ty đi đúng hướng hay không. Nếu khách hàng cần một đối tác có năng lực chứ không chỉ là một bộ phận sân sau, thì Infosys cần phải thay đổi toàn diện và họ cần phải tự tin hơn, điều mà Sikka đang cố gắng xây dựng. Sikka rất tích cực khuyến khích ứng dụng những biện pháp sáng tạo như “design thinking" đối với dự án mới, ông đã khiến nhân viên “tin rằng là ý tưởng của họ được lắng nghe", ông Ray Wang từ công ty Constellation Research cho biết.
+<br>
+
+Những người khác thì tin vào sự bình đẳng, môi trường doanh nghiệp kiểu Bangalore mà những thành viên sáng lập đã xây dựng nên, và họ cho rằng Sikka đang đi ngược lại truyền thống này. Họ phàn nàn là Sikka vận hành công ty với vẽ hào nhoáng kiểu như một ông chủ đến từ Silicon Valley. Ông tập trung nguồn lực vào những dự án bóng bẩy như xe sân golf không người lái, không rõ sẽ được ứng dụng như thế nào vào một công ty dịch vụ IT như Infosys. Ông liên tục nói là thu nhập của công ty sẽ tăng gấp đôi, đạt $20B vào năm 2020. Điều này không có cơ sở, dường như chỉ là vì ông muốn nghe kêu tai như thế. Ông đòi hỏi được đãi ngộ như một sếp người Mỹ, với mức lương thưởng cao gấp 300 lần người tiền nhiệm.
+<br>
+
+Người chỉ trích Sikka gay gắt nhất chính là Narayana Murthy. Với vị trí cổ đông, đồng thời là người sáng lập được vị nể, ông liên tục lên tiếng về đường lối lãnh đạo của Sikka, khi công khai khi bí mật. Đối với những người ủng hộ Sikka thì đây là một trường hợp xấu của “triệu chứng người sáng lập". Cuối cùng Sikka cũng từ chức mà không báo trước vào ngày 18 tháng Tám, ngày sóng gió nhất trong lịch sử Infosys. Giá cổ phiếu của công ty giảm 13%. Thị trường tài chính Ấn tràn ngập thông tin của Infosys trong những ngày tiếp theo.
+<br>
+
+CEO mới của Infosys là Salil Parekh chỉ nhận mức lương bằng ⅙ của Sikka. Thoạt đầu ông có vẻ là lựa chọn an toàn nhàm chán, nhưng dạo gần đây ông có những bước đi táo bạo hơn, cho thấy những thay đổi chiến lược của Infosys, đẩy công ty theo những hướng liên quan đến dịch vụ cấp cao thay vì lập trình. Ông bán những công ty phần mềm tiên tiến mà Sikka đã mua trước đó. Vào tháng Tư thì ông mua một công ty quảng cáo ở Seatle tên là Wongdoody. Công ty này chuyên cộng tác với các tập đoàn, không phải là cung cấp dịch vụ IT. Đó là canh bạc, nhưng nếu hiệu quả thì thương vụ này sẽ giúp công ty chống lại tự động hoá và đa dạng hoá các dịch vụ trong thời điểm biến động này.
+<br>
+
+Về lâu về dài, Infosys không muốn chỉ cạnh tranh với TCS và Wipro, mà còn với những công ty tư vấn phương Tây khác như Accenture hay Deloitte, nhà phân tích thị trường Phil Fersht cho hay. Để làm được việc này, họ cần phải tuyển thêm nhân viên từ là đồng hương với khách hàng, “chuyên viên thế hệ millenial, hy vọng họ hiểu rõ hơn nhu cầu của khách hàng. Họ muốn khách hàng trông thấy ít chất Ấn hơn, đặc biệt là trong thời điểm này”, anh nói. Trên phương diện đó, Infosys thông báo là sẽ mở các “trung tâm sáng chế và công nghệ" trên 4 bang của Mỹ. Trong các bang Indiana, North Carolina, Rhode Island và Connecticut, Infosys cam đoan sẽ thuê trên 10,000 người Mỹ trong vòng 2 năm tới - đây là con số lớn hơn tổng số nhân viên Facebook trên toàn cầu. “Infosys đã nói ‘vâng' với nước Mỹ", phó tổng thống Mike Pence phát biểu tại lể khai trương một trung tâm mới của Infosys ở Indianapolis vào tháng Tư. “Cám ơn vì đã tin tưởng vào đất nước này".
+<br>
+
+Dĩ nhiên điều này chỉ làm tăng thêm lo ngại cho vấn đề lao động ở Ấn Độ. “Họ nói là 10,000 công việc sẽ được chuyển đến Mỹ?” một kỹ sư phần mềm nói. “Số phận của những kỹ sư Ấn sẽ thế nào? Họ sẽ bị đuổi về Ấn hay là bị buộc phải thôi việc?”
+<br>
+
+Xưa nay người Mỹ phàn nàn về gia công sang Ấn đã gây khó khăn cho họ, tình thế có vẽ đảo ngược. Tôi nói chuyện với Kevin Lynn, người đứng đầu tổ chức Cải tổ vấn đề nhập cư, chính họ đã đặt những mẫu quảng cáo trên hệ thống BART. Ông nói những phản hồi là rất tích cực, và ông hài lòng vì số lượng đơn thị thực H-1B đã giảm. “Họ không đem đến những người sáng giá nhất, mà chỉ là luân chuyển người"
+<br>
+
+Đối với Lynn và những người Mỹ khác theo chủ nghĩa bảo hộ, việc Infosys thay đổi từ thị thực Mỹ sang lao động Mỹ được xem như là công lý. Nhưng từ góc độ người Ấn, điều kỳ diệu của ngành IT chính là sự hoàn trả. Sudha Murty cho tôi biết khi chồng bà phác thảo kế hoạch xây dựng Infosys thì ông lưu ý rằng người Anh dẫn đầu cách mạng công nghiệp một phần nhờ vào tài nguyên mà họ lấy đi từ Ấn Độ, còn cuộc cách mạng phần mềm là thứ mà người Ấn có thể đi tiên phong.
+<br>
+
+Narayana Murthy cho rằng thay đổi công ty cũng khó như “thay bánh một chiếc máy bay đang bay". Công ty khởi nghiệp mà ông xây dựng từ căn nhà 2 phòng ngủ ở Bangalore giờ phải thay đổi để vượt qua rào cản mang tính hệ thống và lịch sử. Những người kế vị của Murthy phải làm nên điều kỳ diệu tương tự - nhưng lần này hơn 4 triệu nhân công kỹ thuật Ấn đang trông chờ vào kết quả.
+<br>
+
